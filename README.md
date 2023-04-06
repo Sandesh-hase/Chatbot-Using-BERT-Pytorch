@@ -17,3 +17,6 @@ data = {"intents": [
 {"tag": "goodbye",
  "responses": ["It was nice speaking to you", "See you later", "Speak soon!"]}
 ]}
+
+Output:-
+![image](https://user-images.githubusercontent.com/98344033/230279515-3fb6194b-9382-49c3-83c3-6edab8cb0845.png)
